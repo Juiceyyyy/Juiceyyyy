@@ -13,10 +13,3 @@ Hey! I'm Joshua Menezes, from Mumbai, also known as 'The City Of Dreams'.<br>I a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Juiceyyyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juiceyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Juiceyyyy/Juiceyyyy/output/snake.svg" alt="Snake animation" />
-
-###
