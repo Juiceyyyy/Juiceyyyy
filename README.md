@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/Juiceyyyy/Juiceyyyy/output/snake.svg" alt="Snake animation" />
 
-###
-
 # 💫 About Me:
 Hey! I'm Joshua Menezes, from Mumbai, also known as 'The City Of Dreams'.<br>I am a curious, creative, and dedicated individual with strong moral values and ethics, excellent communication, team management, and leadership skills.<br>I am pursuing a Bachelor's Degree in Computer Engineering with Honors/Minors in Cybersecurity from DBIT, MUMBAI  (2021-2025).<br>I currently hold the position of Vice-Chairperson at ACM-DBIT Student Chapter and have been an active contributor towards TEKNACK GAMING STUDIOS for the past three years.
 
