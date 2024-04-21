@@ -1,3 +1,6 @@
+###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Juiceyyyy/Juiceyyyy/output/snake.svg" alt="Snake animation" />
 
