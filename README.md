@@ -1,3 +1,10 @@
+
+###
+
+<img src="https://raw.githubusercontent.com/Juiceyyyy/Juiceyyyy/output/snake.svg" alt="Snake animation" />
+
+###
+
 # 💫 About Me:
 Hey! I'm Joshua Menezes, from Mumbai, also known as 'The City Of Dreams'.<br>I am a curious, creative, and dedicated individual with strong moral values and ethics, excellent communication, team management, and leadership skills.<br>I am pursuing a Bachelor's Degree in Computer Engineering with Honors/Minors in Cybersecurity from DBIT, MUMBAI  (2021-2025).<br>I currently hold the position of Vice-Chairperson at ACM-DBIT Student Chapter and have been an active contributor towards TEKNACK GAMING STUDIOS for the past three years.
 
@@ -13,9 +20,3 @@ Hey! I'm Joshua Menezes, from Mumbai, also known as 'The City Of Dreams'.<br>I a
   <img src="https://github-readme-stats.vercel.app/api?username=Juiceyyyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juiceyyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Juiceyyyy/Juiceyyyy/output/snake.svg" alt="Snake animation" />
-
-###
