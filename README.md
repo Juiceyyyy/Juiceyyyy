@@ -24,7 +24,7 @@ Hey! I'm Joshua Menezes, from Mumbai, also known as 'The City Of Dreams'.<br>I a
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juiceyyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-#Spotify
+# 🎧Spotify
 <div align="center">
   <img src ="https://spotify-recently-played-readme.vercel.app/api?user=u2zqtxsmwuqwk7eic1gok9ob2&unique={true|1|on|yes"
 </div>
