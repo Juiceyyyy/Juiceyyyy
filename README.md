@@ -21,9 +21,9 @@ Hey! I'm Joshua Menezes, from Mumbai, also known as 'The City Of Dreams'.<br>I a
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joshuamenezes_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuamenezes-)
 
 ## ☕ Sponsor Me
-<div align="center">
+<div align="left">
   <a href="https://www.buymeacoffee.com/juiceyyy" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="100" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
   </a>
 </div>
 
