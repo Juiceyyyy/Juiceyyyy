@@ -32,5 +32,5 @@ Hey! I'm Joshua Menezes, from Mumbai, also known as 'The City Of Dreams'.<br>I a
 
 # 🎧Spotify
 <div align="center">
-  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=u2zqtxsmwuqwk7eic1gok9ob2&unique={true|1|on|yes"
+  [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=u2zqtxsmwuqwk7eic1gok9ob2&width=1000&unique=1)](https://open.spotify.com/user/u2zqtxsmwuqwk7eic1gok9ob2)
 </div>
