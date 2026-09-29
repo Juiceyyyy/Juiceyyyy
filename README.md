@@ -8,9 +8,10 @@ I've built projects around AI/ML, quantitative finance, sports analytics, comput
 
 Some things I've built:
 
+* **[Provenance AI](https://github.com/Juiceyyyy/Provenance-AI)** — evidence-grounded AI assistants for private documents, with hybrid retrieval, citations, and a [live app](https://provenance-ai-ind.vercel.app/).
 * **What Are The Odds** — sports prediction system using historical and live data.
 * **AI Quant Research** — systematic strategies and backtesting for Indian markets, F&O, and crypto.
-* **FaceTrack** — real-time face recognition and human tracking.
+* **[FaceTrack](https://github.com/Juiceyyyy/FaceTrack)** — real-time face recognition and human tracking.
 * Various smaller experiments and side projects along the way.
 
 Currently exploring AI engineering, agentic systems, data engineering, and ways to build software faster with AI.
